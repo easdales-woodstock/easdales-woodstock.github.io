@@ -1,1 +1,0 @@
-# easdales-woodstock.github.io
