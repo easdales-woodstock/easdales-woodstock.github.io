@@ -1,0 +1,6 @@
+<Files Fledermausaufsatz von Marek, 16.12.2020.pdf>
+  AuthName "Eierkopf Login-Bereich"
+  AuthType Basic
+  AuthUserFile E:/Informatik-Seite über Kerrys von Marek Hofmann/.htpasswd
+  require valid-user
+</Files>
